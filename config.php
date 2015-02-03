@@ -10,7 +10,7 @@ $encryption="blowfish";
 
 $dbhost="localhost:3406";
 $dbuser = "root";
-$dbpass = "mysql";
+$dbpass = "yourpassword";
 
 
 
